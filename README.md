@@ -17,7 +17,7 @@ Tech-Fix-Ora is a remote IT support website designed to help individuals and sma
 <p>📄 I am certified in Remote IT Support by Google via Coursera.  
 ## 📜 Certifications
 
-I completed the [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/ABC123XYZ) via Coursera.  
+I completed the [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/certificate/https://coursera.org/share/54bb4d4c3b94199dae4b781d198f549b) via Coursera.  
 This validates my skills in system administration, networking, and IT security.
 
 

@@ -1,36 +1,81 @@
+
+
+/* Base styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
-  color: #333;
+  background: #ffffff;
+  color: #444;
 }
 
+/* Header */
 header {
-  background: #222;
-  color: white;
-  padding: 20px;
+  background: #222831;
+  color: #eeeeee;
+  padding: 30px 20px;
   text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Navigation */
+nav {
+  margin-top: 15px;
 }
 
 nav a {
   margin: 0 15px;
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main content */
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
 }
 
 section {
   padding: 40px;
-  max-width: 800px;
-  margin: auto;
-  background: white;
-  margin-bottom: 20px;
-  border-radius: 8px;
+  margin-bottom: 30px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
 
+h2 {
+  color: #00adb5;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+/* Contact links */
+a[href^="mailto:"],
+a[href^="https://wa.me"] {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a[href^="mailto:"]:hover,
+a[href^="https://wa.me"]:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
 footer {
-  text-align: center;
-  padding: 20px;
   background: #222;
   color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9em;
 }

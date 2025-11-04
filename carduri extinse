@@ -1,0 +1,25 @@
+<section id="services">
+  <h2>Services Offered</h2>
+  <div class="service-cards">
+    <div class="card">
+      <h3>Software Installation</h3>
+      <p>Help with installing and configuring essential programs.</p>
+    </div>
+    <div class="card">
+      <h3>PC/Laptop Diagnostics</h3>
+      <p>Troubleshooting hardware and software issues remotely.</p>
+    </div>
+    <div class="card">
+      <h3>Data Recovery</h3>
+      <p>Recover lost files from damaged or formatted drives.</p>
+    </div>
+    <div class="card">
+      <h3>System Optimization</h3>
+      <p>Speed up your system and remove unnecessary clutter.</p>
+    </div>
+    <div class="card">
+      <h3>IT Consulting</h3>
+      <p>Personalized advice for upgrades and tech solutions.</p>
+    </div>
+  </div>
+</section>

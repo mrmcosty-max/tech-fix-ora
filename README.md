@@ -1,26 +1,77 @@
 
-# Tech-Fix-Ora
+
+# 💻 Tech-Fix-Ora
 
 **Remote IT Support Website**  
-_By Constantin Mutihac ([@mrmcosty-max](https://github.com/mrmcosty-max))_
+_By [Constantin Mutihac](https://github.com/mrmcosty-max) — Founder of Tech-Fix-Ora_
+
+![GitHub Pages](https://img.shields.io/badge/Live%20Site-Available-green)
+![Status](https://img.shields.io/badge/Project-Active-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
-## 🧰 Descriere
+## 🧭 Overview
 
-Tech-Fix-Ora este un website dedicat suportului IT remote pentru persoane fizice și afaceri mici din UK. Proiectul oferă o interfață simplă, clară și rapidă pentru a prezenta serviciile oferite, informații de contact și detalii despre fondator.
-
----
-
-## 🚀 Funcționalități
-
-- Pagini separate: `About`, `Services`, `Contact`
-- Design responsive cu CSS personalizat
-- Navigare intuitivă
-- Structură modulară ușor de extins
-- Linkuri directe către WhatsApp și email
+Tech-Fix-Ora is a remote IT support website designed to help individuals and small businesses across the UK. The project provides a clean, fast, and user-friendly interface with dedicated pages for services, contact, and founder information.
 
 ---
 
-## 📁 Structura proiectului
+## ⚙️ Features
 
+- ✅ Separate pages: `About`, `Services`, `Contact`
+- 🎨 Responsive design with custom CSS
+- 🔗 Intuitive navigation between sections
+- 📱 Direct links to WhatsApp and email
+- 🧩 Modular structure, easy to expand
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🌐 Useful Links
+
+- 🔗 [Live Site](https://mrmcosty-max.github.io/tech-fix-ora/)
+- 📧 Email: [mr.mcosty@gmail.com](mailto:mr.mcosty@gmail.com)
+- 💬 WhatsApp: [Direct Contact](https://wa.me/447000000000)
+- 👤 [LinkedIn](https://linkedin.com/in/constantin-mutihac)
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- GitHub Pages
+- GitHub Codespaces
+- Visual Studio Code
+
+---
+
+## 📌 Project Status
+
+- ✅ Launched and functional
+- 🔄 In progress: dark mode, contact form, SEO optimization
+
+---
+
+## 🤝 Contributions
+
+This is a personal project, but open to suggestions and improvements.  
+Feel free to submit a pull request or open an issue.
+
+---
+
+## 📜 License
+
+Distributed under the MIT License.  
+See the `LICENSE` file for details.
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to everyone who provided feedback, support, and inspiration throughout the development of this project.

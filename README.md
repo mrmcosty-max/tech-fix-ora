@@ -16,7 +16,8 @@ _By [Constantin Mutihac](https://github.com/mrmcosty-max) — Founder of Tech-Fi
 Tech-Fix-Ora is a remote IT support website designed to help individuals and small businesses across the UK. The project provides a clean, fast, and user-friendly interface with dedicated pages for services, contact, and founder information.
 
 <p>📄 I am certified in Remote IT Support by Google via Coursera.  
-View my certificate <a href="https://coursera.org/verify/professional-cert/5CH8P2M4Y4
+<a href="https://www.coursera.org/account/accomplishments/certificate/5C2H8P2MP4Y4" target="_blank">View my certificate</a>
+
 
 
 ---
